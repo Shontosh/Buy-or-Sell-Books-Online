@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211373626296",
+    "project_id": "book-sell-app",
+    "storage_bucket": "book-sell-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211373626296:android:892a3e8529393c5192f54d",
+        "android_client_info": {
+          "package_name": "com.lab69.booksellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211373626296-pubndbg3q6i1gakhjqc6dmf4furb6b8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_xbK6gDz71rvQQwyjMQxRFjQEovvoX20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211373626296-pubndbg3q6i1gakhjqc6dmf4furb6b8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
